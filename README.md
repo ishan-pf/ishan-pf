@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=ishan-pf&count_private=true&show_icons=true&theme=radical)](https://github.com/ishan-pf/github-readme-stats
+[![Ishan Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-pf&count_private=true&show_icons=true&theme=radical)](https://github.com/ishan-pf/github-readme-stats
+)
