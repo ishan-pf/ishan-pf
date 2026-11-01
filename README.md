@@ -183,7 +183,7 @@ I'll periodically update:
 
 I'm always interested in discussing backend engineering, Java, system design, software architecture and learning through building.
 
-- **LinkedIn:** [Add your LinkedIn profile]
+- **LinkedIn:** [[Add your LinkedIn profile]](https://www.linkedin.com/in/ishan-gupta-175av/)
 - **GitHub:** [Your GitHub profile]
 
 ---
