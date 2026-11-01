@@ -1,6 +1,6 @@
 # Hey, I'm Ishan 👋
 
-### Software Engineer | Aspiring Backend Engineer | Java & Distributed Systems Enthusiast
+### Software Engineer | Backend Engineer | Java & Distributed Systems Enthusiast
 
 I'm currently working as an Associate Engineer at **Shell**, with experience across data engineering and full-stack development.
 
