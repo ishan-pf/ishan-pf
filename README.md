@@ -106,7 +106,7 @@ Java · C++ · Python · JavaScript · TypeScript
 
 **Backend & APIs**
 
-Node.js · NestJS · Express · FastAPI · Spring Boot
+Node.js · Express · FastAPI · Spring Boot
 
 **Databases & Infrastructure**
 
